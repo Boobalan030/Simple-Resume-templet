@@ -1,0 +1,358 @@
+#logo{
+    color: gold;
+    font-size: 35px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+
+}
+.container-fluid{
+    background-color: black;
+    position: sticky;
+    border-radius: 5px; 
+}
+#navbarSupportedContent .Home  {
+    color: aqua;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+
+}
+#navbarSupportedContent .Link  {
+    color: aqua;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+#navbarSupportedContent .Contect  {
+    color: aqua;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.navbar-toggler-icon{
+    background-color: azure;
+    border-radius: 3px;
+}
+.nav-item{
+    transition: 2s;
+}
+.nav-item :hover{
+    border-bottom: 1px solid skyblue;
+}
+.Contect1{
+    margin-left: 550px;
+    margin-top: -500px;
+    position: absolute;
+    color: goldenrod;
+    font-size: 50px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    transition: 2s;
+    text-wrap: wrap;
+}
+.Contect2{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: -400px;
+    color: goldenrod;
+    font-size: 50px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    transition: 2s;
+}
+.Bottom-section{
+    background-color: black;
+    width: 100%;
+    height: 2000px;
+}
+.line-hr{
+    color: aqua;
+    width: 90%;
+}
+.line-hr-2{
+    color: aqua;
+    width: 90%; 
+    margin-top: 200px;
+    margin-left: 70px; 
+    box-shadow: 1px 2px 5pc 1px aqua; 
+    height: 2px;
+}
+.About-me{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.skils{
+    color: goldenrod;
+}
+.Hard-Skils{
+    color: rgb(219, 243, 85);
+    font-size: 25px;
+}
+.Skils-list{
+    color: aqua;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.soft-skils{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(219, 243, 85);
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 500px; 
+    margin-top: -340px;
+}
+.Skils-list-2{
+    color: aqua;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 20px;
+    margin-left: 550px;
+    margin-top: -10px;
+    text-wrap: wrap;
+}
+
+.line-hr-3{
+    color: aqua; 
+    width: 90%; 
+    margin-top: 10px; 
+    margin-left: 70px; 
+    box-shadow: 1px 2px 5pc 1px aqua; 
+    height: 2px;
+}
+.Education{
+    color: goldenrod; 
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    width: 14%; 
+    text-wrap: nowrap;
+}
+.Education-details-1{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: aqua; 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.Education-details-2{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: aqua; 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.Education-details-3{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: aqua; 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.Cartified-Course{
+    color: rgb(219, 243, 85); 
+    font-family: Comic Sans MS, Comic Sans, cursive;  
+    text-wrap: wrap; 
+    margin-left: 100px;
+}
+.Course-det-1{
+    color: aqua; 
+    font-family: Comic Sans MS, Comic Sans, cursive;  
+    text-wrap: wrap; 
+    margin-left: 150px;
+}
+.Course-det-2{
+    color: aqua; 
+    font-family: Comic Sans MS, Comic Sans, cursive;  
+    text-wrap: wrap; 
+    margin-left: 200px;
+}
+.Expreines{
+    color: goldenrod; 
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    width: 14%; 
+    text-wrap: nowrap;
+}
+.Expreines-det-1{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: aqua; 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.Expreines-det-2{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: aqua; 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.line-hr-4{
+    color: aqua; 
+    width: 90%; 
+    margin-top: 10px; 
+    margin-left: 70px; 
+    box-shadow: 1px 2px 5pc 1px aqua; 
+    height: 2px;
+}
+.Contect{
+    color: goldenrod; 
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    width: 11%; 
+    text-wrap: nowrap;
+}
+.content-detl-1{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: rgb(219, 243, 85); 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.content-detl-2{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: rgb(219, 243, 85); 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.content-detl-3{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: rgb(219, 243, 85); 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.content-detl-4{
+    font-family: Comic Sans MS, Comic Sans, cursive; 
+    color: rgb(219, 243, 85); 
+    text-wrap: wrap; 
+    font-size: 25px; 
+    margin-left: 100px;
+}
+.line-hr-5{
+    color: aqua; 
+    width: 90%; 
+    margin-top: 10px; 
+    margin-left: 70px; 
+    box-shadow: 1px 2px 5pc 1px aqua; 
+    height: 2px;
+}
+.footer{
+    color: aqua;
+    font-size: 60px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-left: 600px;
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .Contect1{
+        margin-left: 300px;
+    } 
+    .Contect2{
+        margin-left: 200px;
+        font-size: 50px;
+    }
+    .Bottom-section{
+        height: 2080px;
+    }
+    .footer{
+        margin-left: 400px;
+        margin-top: 50px;
+    }
+
+}
+@media screen  and (min-width: 320px) and (max-width: 768px) {
+    .Bottom-section{
+        height: 2200px;
+        
+    }
+    .Contect1{
+        margin-left: 120px;
+        font-size: 50px;
+    }
+    .Contect2{
+        margin-left: 40px;
+        font-size: 30px;
+    }
+    .About-me{
+        margin-left: 180px;
+    }
+    .line-hr{
+        width: 400px;
+    }
+    .skils{
+        margin-left: 195px;
+        margin-top: -20px;
+    }
+    .Hard-Skils{
+        margin-left: 1px;
+    }
+    .Skils-list{
+        margin-left: 50px;
+    }
+    .soft-skils{
+        margin-left: 300px;
+    }
+    .Skils-list-2{
+        margin-left: 300px;
+    }
+    .line-hr-3{
+        width: 400px;
+        margin-top: 10px;
+        margin-left: 65px;
+    }
+    .Education{
+        margin-left: 170px;
+        margin-top: -20px;
+    }
+    .Education-details-1{
+        margin-left: 40px;
+    }
+    .Education-details-2{
+        margin-left: 40px;
+    }
+    .Education-details-3{
+        margin-left: 40px;
+    }
+    .Cartified-Course{
+        margin-left: 50px;
+    }
+    .Course-det-1{
+        margin-left: 40px;
+    }
+    .Course-det-2{
+        margin-left: 50px;
+        margin-top: -20px;
+    }
+    .line-hr-2{
+        width: 400px;
+    }
+    .Expreines{
+        margin-left: 180px;
+        margin-top: -20px;
+    }
+    .Expreines-det-1{
+        margin-left: 50px;
+    }
+    .Expreines-det-2{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .line-hr-4{
+        width: 400px;
+    }
+    .Contect{
+        margin-left: 220px;
+        margin-top: -20px;
+    }
+    .content-detl-1{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .content-detl-2{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .content-detl-3{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .content-detl-4{
+        margin-left: 50px;
+        font-size: 20px;
+    }
+    .line-hr-5{
+        width: 400px;
+    }
+    .footer{
+        margin-left: 150px;
+    }
+}
